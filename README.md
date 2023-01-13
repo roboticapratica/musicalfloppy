@@ -13,11 +13,11 @@ Projeto original: [https://git.io/moppy](https://git.io/moppy)
 ![YouTube Video Views](https://img.shields.io/youtube/views/jnu8cIQkKuw?style=social)
 ### Playlist
 [Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxRrC-SBzlSHAKJKzPMP5cG)
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
