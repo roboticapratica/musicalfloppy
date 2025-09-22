@@ -2,8 +2,6 @@
 
 # Metareciclagem - Projeto Musical Floppy Arduino
 Este tutorial ensina a reutilizar unidades antigas de disquete para reproduzir música usando o Arduino.
-### Autor
-Professor José de Assis
 
 Projeto original: [https://git.io/moppy](https://git.io/moppy)
 
